@@ -948,6 +948,7 @@ main .right-container>img {
     font-size: 16px;
     background-color: var(--primaryLiteColor);
     color: var(--secondaryColor);
+    width: 100%;
 }
 
 
