@@ -303,7 +303,8 @@ nav input:checked~.menu-items {
     font-size: 20px;
     font-weight: 700;
     /* Centering Icon */
-    align-content: center;
+    /* align-content: center; */
+    padding-top: 12px;
     text-align: center;
 }
 
@@ -1032,7 +1033,7 @@ main .right-container>img {
     height: 40px;
     width: 40px;
     border-radius: 50%;
-    align-content: center;
+    padding-top: 12px;
     transition: all 1s;
 }
 
@@ -1186,7 +1187,7 @@ footer .container-1 i {
     border-radius: 50%;
     background-color: var(--primaryColor);
     text-align: center;
-    align-content: center;
+    padding-top: 12px;
     font-size: 20px;
     color: var(--blackColor);
     transition: all .8s ease-in-out;
